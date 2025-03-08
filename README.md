@@ -1,3 +1,4 @@
+
 admin/company  前端管理系统
 server  服务端
 ## 安装
@@ -19,4 +20,8 @@ npm run serve
 ```
 npm start
 ```
+
+
+# vue3-node
+这是一个基于vue3和node.js的全栈新闻发布系统
 
